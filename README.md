@@ -237,4 +237,4 @@ This repository serves as the official landing page for **Flight of the Amazon Q
 **Get the most recent version of Flight of the Amazon Queen today!**
 
 ---
-**Last updated:** 2026-09-12 08:26:35 UTC
+**Last updated:** 2026-09-12 12:40:59 UTC
